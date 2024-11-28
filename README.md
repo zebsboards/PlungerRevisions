@@ -1,2 +1,2 @@
-# PlungerRevisions
-Plunger code dating back to the V1 plunger release
+# VPCabs Controller Firmwares
+Plunger and controller firmware for VPCabs Pinball Cabinets and Vertigo Controllers
