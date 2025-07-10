@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp.zebsboards.ca/|ftp.zebsboards.ca\|Y:\VirtuaPinUpdater\Configuration Utility Setup\|ftp://www.zebsboards.ca/|ftp://www.zebsboards.com/</PublishUrlHistory>
+    <InstallUrlHistory>https://www.zebsboards.ca/public_html/support_docs/ConfigAppTest/|https://www.zebsboards.com/public_html/support_docs/ConfigAppTest/|https://www.zebsboards.com/ConfigTestApp/|https://www.zebsboards.com/home/zebsboar/zebsboards.com/ConfigTestApp/</InstallUrlHistory>
+    <SupportUrlHistory>https://VirtuaPin.net</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
